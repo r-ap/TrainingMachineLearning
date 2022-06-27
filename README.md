@@ -14,37 +14,13 @@ Application needs:
 This section covers what you'll learn in this labs.
 
 ### 1. Introduction: Basic Syntax, Data Type, and Variable
-- Integers
-```sh
-# Python interprets a sequence of decimal digits without any prefix to be a decimal number:
-print(10)
-print(type(10))
-```
-> 10
-> <class 'int'>
-
-- Floating-Point Numbers
-```sh
-print(4.2)
-print(type(4.2))
-print(4.)
-print(.2)
-print(.4e7)
-print(4.2e-4)
-```
-
-> 4.2
-<class 'float'>
-4.0
-0.2
-4000000.0
-0.00042
-
-
-
+> [Basic Python & Syntax](https://github.com/r-ap/TrainingMachineLearning/blob/main/Copy_of_BFI_PYIM_1.ipynb) 
 ### 2. Conditions, Control Flow & Looping
+> [Conditional If, Flow, & Looping](https://github.com/r-ap/TrainingMachineLearning/blob/main/Copy_of_BFI_PYIM_2.ipynb) 
 ### 3. Function, Basic Module, and Package
+> [Function](https://github.com/r-ap/TrainingMachineLearning/blob/main/BFI_PYIM_3.ipynb) 
 ### 4. Numpy
+> [Numpy](https://github.com/r-ap/TrainingMachineLearning/blob/main/BFI_PYIM_4.ipynb) 
 ### 5. Pandas Introduction
 ### 6. Data Cleaning with Pandas
 ### 7. Basic Visualization
