@@ -22,7 +22,10 @@ This section covers what you'll learn in this labs.
 ### 4. Numpy
 > [Numpy](https://github.com/r-ap/TrainingMachineLearning/blob/main/BFI_PYIM_4.ipynb) 
 ### 5. Pandas Introduction
+> [Introduction To Pandas](https://github.com/r-ap/TrainingMachineLearning/blob/main/BFI_PYIM_5.ipynb) 
 ### 6. Data Cleaning with Pandas
+> [Data Cleaning Part I](https://github.com/r-ap/TrainingMachineLearning/blob/main/BFI_PYIM_6_1.ipynb)
+> [Data Cleaning Part 2 + Project Example](https://github.com/r-ap/TrainingMachineLearning/blob/main/BFI_PYIM_6_2.ipynb) 
 ### 7. Basic Visualization
 ### 8. Advanced Visualization
 ### 9. Descriptive Statistics
